@@ -1,2 +1,2 @@
-# panel-sample
-Stata program to randomly sample panel data
+# panelsample
+Stata program to create a sample from panel data
