@@ -1,2 +1,3 @@
 # panelsample
-Stata program to create a sample from panel data
+
+* Stata command to create a sample from panel data
